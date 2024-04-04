@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: dab90a45cedf47b4291bd9816c597551
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99451
+  packageName: SIMPLE FANTASY GUI
+  packageVersion: 1.0
+  assetPath: Assets/Simple Fantasy GUI/Font/MedievalSharp.ttf
+  uploadId: 204814
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MedievalSharp
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
